@@ -1,3 +1,15 @@
-p{
-  color: red;
+// TABLE OF CONTENTS
+// 1. NORMALIZE SECTIONf
+// 2. FORECAST STYLES
+
+// 1. NORMALIZE SECTION
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+// 2. FORECAST STYLES
+li{
+  display: inline;
 }
